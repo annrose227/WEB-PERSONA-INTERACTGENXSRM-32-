@@ -1,0 +1,7 @@
+{
+  "name": "WebPersona 2.0",
+  "description": "Autonomous web research agent with simulated Face ID, acting as a research assistant using Gemini and Search Grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
